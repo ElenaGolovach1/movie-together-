@@ -1,0 +1,7 @@
+{
+  "name": "vdvoem",
+  "version": "1.0.0",
+  "description": "Совместный просмотр видео на двоих",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" }
+}
